@@ -1,0 +1,34 @@
+body{
+  background-image: url("https://purepng.com/public/uploads/medium/apex-legends-logo-high-resolution-qrs.png");
+  background-attachment:fixed;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+header{
+  font-family: 'Teko', sans-serif;
+  font-size: 2.4em;
+  color:crimson;
+  text-align:center;
+}
+h1{
+  font-family: 'Teko', sans-serif;
+  color:crimson;
+  text-align:center;
+}
+imput{
+  font-family: 'Teko', sans-serif;
+  color:crimson;
+  font-size: 2.4em;
+}
+p{
+  font-family: 'Teko', sans-serif;
+  color:crimson;
+  text-align:center;
+}
+
+innerHTML{
+  font-family: 'Teko', sans-serif;
+  color:crimson;
+  text-align:center;
+}
